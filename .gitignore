@@ -1,0 +1,9 @@
+# Netbeans specific
+build/
+dist/
+nbproject/private/
+
+# IntelliJ specific
+out/
+.idea/workspace.xml
+.idea/tasks.xml
